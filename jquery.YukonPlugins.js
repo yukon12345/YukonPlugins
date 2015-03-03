@@ -57,7 +57,7 @@ that which project includes this plugin or code fragment .(just let me know is o
         return xml;
     };
     $.Ytree={
-        /*备用函数，用于不同数据源。返回一项node的html
+        /*getLiHtml为备用函数，用于不同数据源。返回一项node的html
          *tod 改造
          * */
         getLiHtml:function($xmlNodeData){
